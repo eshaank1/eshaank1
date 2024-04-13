@@ -1,4 +1,4 @@
-### Eshaan Kumar
+### Hi, I'm Eshaan
 
 <!--
 **eshaank1/eshaank1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- Pinned Projects
-- LinkedIn
-- Personal Portfolio Website
