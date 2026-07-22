@@ -1,13 +1,18 @@
-<div align="right">
-<img src="./banner.svg" width="300" alt="Hi, I'm Eshaan"/>
-
+<table>
+<tr>
+<td width="540" valign="middle" align="center">
+<img src="./ascii.svg" width="520" alt="ascii portrait of the UW Huskies W"/>
+</td>
+<td width="20" valign="middle" align="center">
+<img src="./divider.svg" width="4" alt=""/>
+</td>
+<td valign="middle" align="left">
+<img src="./banner.svg" width="260" alt="Hi, I'm Eshaan"/>
+<br/>
 <!-- TODO: replace with real links -->
 <a href="#">website</a> ·
 <a href="#">linkedin</a> ·
 <a href="#">x</a>
-</div>
-<br/>
-
-<div align="center">
-<img src="./ascii.svg" width="860" alt="ascii portrait"/>
-</div>
+</td>
+</tr>
+</table>
