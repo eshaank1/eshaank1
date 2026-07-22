@@ -10,7 +10,7 @@
 <img src="./banner.svg" width="260" alt="Hi, I'm Eshaan"/>
 <br/>
 <!-- TODO: replace with real links -->
-<a href="https://www.linkedin.com/in/eshaan-kumar-sd/">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/eshaan-kumar-sd/">LinkedIn</a>
 </td>
 </tr>
 </table>
