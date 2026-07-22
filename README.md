@@ -1,16 +1,21 @@
-### Hi, I'm Eshaan
+<div align="right">
+<img src="./banner.svg" width="300" alt="Hi, I'm Eshaan"/>
 
+<!-- TODO: replace with real links -->
+<a href="#">website</a> ·
+<a href="#">linkedin</a> ·
+<a href="#">x</a>
+</div>
+<br/>
+
+<div align="center">
 <!--
-**eshaank1/eshaank1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ascii.svg not generated yet. Once you have a suitable photo (side-lit,
+  plain background, face filling the frame), run:
 
-Here are some ideas to get you started:
+    python make_ascii_svg.py photo.jpg ascii.svg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  then this image will render.
 -->
+<img src="./ascii.svg" width="860" alt="ascii portrait"/>
+</div>
