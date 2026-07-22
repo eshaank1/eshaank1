@@ -11,7 +11,7 @@
 <br/>
 <!-- TODO: replace with real links -->
 <a href="https://www.linkedin.com/in/eshaan-kumar-sd/">LinkedIn</a> ·
-<a href="mailto:eshaank@uw.edu">Email Me</a>
+<a href="mailto:eshaank@uw.edu">Email</a>
 </td>
 </tr>
 </table>
